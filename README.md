@@ -8,6 +8,6 @@ Lorsque vous cliquez sur un jeu, vous obtenez une page qui vous donnera des info
 Exemple : plateformes supportées, site web, genres, date de sortie, ou encore la description du jeu.
 
 Pour lancée le projet :
-    - Nécessite l'installation d'Angular et de NodeJS.
-    - Nécessite un accès à la base de donnée en ligne.
-    - Lancer la commande <b>ng serve</b>.
+    <br> Nécessite l'installation d'Angular et de NodeJS.
+    <br> Nécessite un accès à la base de donnée en ligne.
+    <br> Lancer la commande <b>ng serve</b>.
